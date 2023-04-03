@@ -1,0 +1,1 @@
+{"FOV Radius":"100","Smoothness":"2","Wallbang":true,"Aimbot":true,"Team Check":true,"Show FOV":true,"ESP":true,"Aim Part":"Head","Tracers":true,"Silent Aim":true}
